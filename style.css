@@ -15,8 +15,13 @@ body {
 }
 
 .gif {
-    height: 50%;
-    width: 50%;
+    height: 25%;
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
 }
 
 h2 {
